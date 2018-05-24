@@ -74,6 +74,12 @@ VOPT = --tool=memcheck --leak-check=full --show-leak-kinds=all --track-origins=y
 default: clean $(BIN) debug
 
 #
+# Play game:
+#
+game: clean $(BIN)
+        ./$(BIN)
+
+#
 # Notice the dependency chain.
 #
 # Order assuming no files exist:

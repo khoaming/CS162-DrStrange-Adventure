@@ -7,6 +7,6 @@ To play the game:
  -Run ```make game``` from a command line tool</br>
  -Enjoy :-)</br>
 
-<img width="784" alt="cs162" src="https://user-images.githubusercontent.com/27119431/40460647-c4d9c316-5ed5-11e8-8f36-5eeec09c60ac.png">
+<img width="783" alt="screen shot 2018-05-23 at 11 44 51 pm" src="https://user-images.githubusercontent.com/27119431/40463434-625e56da-5ee3-11e8-9081-4190113b40fb.png">
 
 And...spoiler alert! In case you need some hints, I have included steps to win the game in the "Key to solving game logics" section in Reflection.pdf, but I am confident you will not get stuck :-)

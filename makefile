@@ -77,7 +77,7 @@ default: clean $(BIN) debug
 # Play game:
 #
 game: clean $(BIN)
-        ./$(BIN)
+	./$(BIN)
 
 #
 # Notice the dependency chain.
